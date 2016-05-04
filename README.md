@@ -1,6 +1,6 @@
 # flyway-sbt-ext
 
-Load datasource values from config file for flyway-sbt.
+Load datasource values from config file for flyway-sbt in case you have different config file for different environments.
 
 The artifact version will be always the same as flyway-sbt version from 4.0
 
